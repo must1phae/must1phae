@@ -1,7 +1,7 @@
 <!-- 🟥 Banner -->
 
 <p align="center">
-  <img src="/must1phae/must1phae/main/A_digital_graphic_design_banner_features_Mustapha_.png" alt="Mustapha El Ghazzal Banner" width="100%">
+  <img src="/must1phae/must1phae/main/A.png" alt="Mustapha El Ghazzal Banner" width="100%">
 </p>
 
 
