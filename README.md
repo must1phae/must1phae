@@ -1,7 +1,7 @@
 <!-- 🟥 Banner -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/must1phae/must1phae/main/A_digital_graphic_design_banner_features_Mustapha_.png" alt="Mustapha El Ghazzal Banner" width="100%">
+  <img src="/must1phae/must1phae/main/A_digital_graphic_design_banner_features_Mustapha_.png" alt="Mustapha El Ghazzal Banner" width="100%">
 </p>
 
 
@@ -75,7 +75,7 @@
 <p align="center">
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/yourprofile"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://instagram.com/mustapha_el_gh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 ---
