@@ -85,7 +85,11 @@
 ### 🐍 GitHub Activity Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/must1phae/must1phae/output/github-contribution-grid-snake.svg" alt="GitHub Snake">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/must1phae/must1phae/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/must1phae/must1phae/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/must1phae/must1phae/output/github-contribution-grid-snake.svg" style="background-color: #000000; padding: 20px; border-radius: 10px;">
+  </picture>
 </p>
 
 ---
