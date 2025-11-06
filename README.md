@@ -2,7 +2,7 @@
 
 <!-- 🟥 Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/must1phae/must1phae/main/A.png" alt="Mustapha El Ghazzal Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/must1phae/must1phae/main/M.png" alt="Mustapha El Ghazzal Banner" width="100%">
 </p>
 
 
