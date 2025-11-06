@@ -85,7 +85,8 @@
 ### 🐍 GitHub Activity Snake
 
 <p align="center">
-  <img src="https://github.com/must1phae/must1phae/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+<img src="https://raw.githubusercontent.com/must1phae/must1phae/output/github-contribution-grid-snake.svg" alt="Snake animation">
+
 </p>
 
 ---
