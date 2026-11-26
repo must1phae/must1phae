@@ -6,8 +6,7 @@
 
 # 👋 Hi, I'm Mustapha El Ghazzal
 
-🎓 I'm a **Computer Engineering student** at the **Higher School of Technology, Safi (Cadi Ayyad University)**.
-🤖 Specializing in **Artificial Intelligence (AI)**.
+🎓 I'm pursuing a **Licence in ADIA** at the **Centre d’excellence of the Faculté des Sciences d’Agadir (FSA), Université Ibn Zohr**.
 💡 Passionate about **software development, design, and machine learning**.
 🚀 I love building smart and creative full-stack projects that solve real problems.
 
@@ -25,6 +24,8 @@
 
 ### 💼 Featured Projects
 
+* 👓 **VTON 3D — Real-Time Virtual Try-On** – A mobile app that lets users try on 3D glasses through their camera using AR face tracking. Built with Flutter, Lens Studio and Snap Camera Kit, Django REST Framework, and Supabase/PostgreSQL.
+* 🍎 **OrchaScan** – An internship project that reconstructs apple trees in 3D from photos, counts visible apples, and uses image classification to assess disease and ripeness. Built with Next.js, React Three Fiber, FastAPI, PyTorch, and the Tripo AI API.
 * 🚗 **AutoLoc** – Full-stack car rental platform
 * 🍔 **Fast Food Store** – Online food ordering app
 * 💻 **Portfolio Website** – Showcasing my work and skills
@@ -43,6 +44,12 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
+
+* **Mobile and web development** — Flutter, Dart, TypeScript, Next.js, React, Three.js, React Three Fiber
+* **APIs and databases** — Django REST Framework, FastAPI, Supabase, PostgreSQL
+* **Machine learning and data analysis** — PyTorch, ResNet-18, NumPy, scikit-learn, DBSCAN
+* **Augmented reality and 3D** — Lens Studio, Snap Camera Kit, face tracking, Tripo AI, Trimesh
+* **Version control** — Git and GitHub
 
 ---
 
